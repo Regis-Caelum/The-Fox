@@ -46,3 +46,11 @@ The following packages were added:
   com.unity.ugui@1.0.0
 The following packages were updated:
   com.unity.2d.spriteshape from version 4.1.1 to 4.1.2
+
+=== Wed Aug  5 22:55:15 2020
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.textmeshpro from version 3.0.0-preview.1 to 3.0.1
