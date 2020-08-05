@@ -30,7 +30,7 @@ GitHub Unsername :- LoiyaAnant.
 
 Email :- loiyaar@rknec.edu.
 
-#### Scripts
+#### Scripts.
 
 Collaborator :- Inshal Khan.
 
