@@ -37,3 +37,21 @@ Collaborator :- Inshal Khan.
 GitHub Username :- Regis-Caelum.
 
 Email :- regis_caelum@tuta.io.
+
+
+
+#### Icon credits - 
+Vijay Katariya
+
+
+#### Audio tracks from -
+
+https://youtu.be/tM5d0G0vue0
+
+https://youtu.be/hrgzWEgCCFg
+
+https://youtu.be/Hvdfx9avekU
+
+https://youtu.be/l7SwiFWOQqM
+
+https://youtu.be/L_OYo2RS8iU
