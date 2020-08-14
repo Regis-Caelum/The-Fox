@@ -1,6 +1,6 @@
 # The-Fox
 Unity 2D game project by Switch.
-
+Download link - https://github.com/Regis-Caelum/The-Fox/raw/master/apks/TheFox.apk
 
 ## Designed By Switch.
 
