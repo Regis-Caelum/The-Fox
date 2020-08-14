@@ -10,7 +10,7 @@ Unity 2D game project by Switch.
 
 Collaborator :- Vinay Katariya.
 
-GitHub Unsername :- katariyavinay.
+GitHub Username :- katariyavinay.
 
 Email :- katariyavr@rknec.edu.
 
@@ -18,7 +18,7 @@ Email :- katariyavr@rknec.edu.
 
 Collaborator :- Stephen Anthony.
 
-GitHub Unsername :- StephenHp77.
+GitHub Username :- StephenHp77.
 
 Email :- anthonysp@rknec.edu.
 
@@ -26,7 +26,7 @@ Email :- anthonysp@rknec.edu.
 
 Collaborator :- Anant Loiya.
 
-GitHub Unsername :- LoiyaAnant.
+GitHub Username :- LoiyaAnant.
 
 Email :- loiyaar@rknec.edu.
 
