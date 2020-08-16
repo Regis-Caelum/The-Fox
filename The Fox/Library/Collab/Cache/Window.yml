@@ -14,11 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - Assets/Prefabs/Bullet.prefab
+    - Assets/Prefabs/Bullet.prefab.meta
     - Assets/Scenes/Scene1.unity
     - Assets/Scenes/Scene2.unity
-    - Assets/Scenes/Scene3.unity
+    - Assets/Scripts/PlayerMovement.cs
+    - Assets/Scripts/weapon.cs
+    - Assets/Scripts/weapon.cs.meta
     - 
-    m_Values: 00000000
+    m_Values: 0000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
