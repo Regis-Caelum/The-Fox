@@ -14,16 +14,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - .collabignore
+    - Assets/Prefabs/Bullet.prefab
+    - Assets/Prefabs/Bullet.prefab.meta
     - Assets/Scenes/Instructions.unity
-    - Assets/Scenes/Instructions.unity.meta
+    - Assets/Scenes/Scene1.unity
+    - Assets/Scenes/Scene2.unity
+    - Assets/Scripts/Bullet.cs
+    - Assets/Scripts/Bullet.cs.meta
+    - Assets/Scripts/PlayerMovement.cs
     - Assets/Scripts/load.cs
     - Assets/Scripts/load.cs.meta
-    - Packages/manifest.json
-    - Packages/packages-lock.json
-    - ProjectSettings/ProjectVersion.txt
+    - Assets/Scripts/weapon.cs
+    - Assets/Scripts/weapon.cs.meta
     - 
-    m_Values: 000000000000000000
+    m_Values: 00000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
